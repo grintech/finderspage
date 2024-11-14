@@ -1,0 +1,22 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /chatify
+
+User-agent: *
+Disallow: /user
+
+User-agent: *
+Disallow: /resume-listing
+
+User-agent: *
+Disallow: /resume-single
+
+User-agent: *
+Disallow: /auth/google
+
+Sitemap: https://www.finderspage.com/sitemap.xml
